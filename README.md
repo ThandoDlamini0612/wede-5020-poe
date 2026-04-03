@@ -1,5 +1,5 @@
 # Project Title
-Your project's title
+My awesome project
 
 ## Student Information
 **Student number:** Your student number <br>
